@@ -1,16 +1,16 @@
-Controle de Conta Bancária
+Controle de Conta Bancária<br>
 Um projeto simples em Java para simular o gerenciamento de uma conta bancária diretamente no terminal.
 
 🔨 Funcionalidades
-Exibir informações do cliente (nome, tipo da conta e saldo).
-Entrada de valores na conta (depósito ou transferência recebida).
-Saída de valores da conta (saque ou transferência enviada).
-Consulta de saldo atualizado.
-Menu interativo com opções claras e validação de entradas inválidas.
-Encerramento da aplicação pelo usuário.
+Exibir informações do cliente (nome, tipo da conta e saldo).<br>
+Entrada de valores na conta (depósito ou transferência recebida).<br>
+Saída de valores da conta (saque ou transferência enviada).<br>
+Consulta de saldo atualizado.<br>
+Menu interativo com opções claras e validação de entradas inválidas.<br>
+Encerramento da aplicação pelo usuário.<br>
 
 🚀 Tecnologias Utilizadas
-Java: Linguagem de programação principal.
+Java: Linguagem de programação principal.<br>
 Scanner: Para captura de entrada do usuário no terminal.
 
 📦 Como Executar o Projeto

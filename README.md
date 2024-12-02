@@ -17,7 +17,7 @@ Um projeto simples em Java para simular o gerenciamento de uma conta bancária d
 ## 📦 Como Executar o Projeto  
 1. Clone o repositório:  
    ```bash  
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Fellype-Dev/Java-Desafio-Conta-Virtual
    ```
 2. Compile o programa:
    ```bash

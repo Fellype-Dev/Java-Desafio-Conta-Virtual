@@ -17,4 +17,11 @@ Um projeto simples em Java para simular o gerenciamento de uma conta bancária d
 ## 📦 Como Executar o Projeto  
 1. Clone o repositório:  
    ```bash  
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git  
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+   ```bash
+   javac Main.java  
+
+   ```bash
+   java Main  
+

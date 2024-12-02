@@ -1,16 +1,50 @@
-# Desafio
+Controle de Conta Bancária
+Um projeto simples em Java para simular o gerenciamento de uma conta bancária diretamente no terminal.
 
+🔨 Funcionalidades
+Exibir informações do cliente (nome, tipo da conta e saldo).
+Entrada de valores na conta (depósito ou transferência recebida).
+Saída de valores da conta (saque ou transferência enviada).
+Consulta de saldo atualizado.
+Menu interativo com opções claras e validação de entradas inválidas.
+Encerramento da aplicação pelo usuário.
+🚀 Tecnologias Utilizadas
+Java: Linguagem de programação principal.
+Scanner: Para captura de entrada do usuário no terminal.
+📦 Como Executar o Projeto
+Clone o repositório:
 
-Vamos implementar uma aplicação para controlar nossa conta bancária, seja ela virtual ou não. 
+bash
+Copiar código
+git clone https://github.com/seu-usuario/nome-do-repositorio.git  
+Compile o programa:
 
-## 🔨 Objetivos do projeto
+bash
+Copiar código
+javac Main.java  
+Execute o programa:
 
-- Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
-- Criar um menu que descreve as operações. Aqui você pode escolher o nome de método que mais lhe agradar, como *saca* (ou *transfere*, *enviaPix*) para simular a **retirada** de valores da conta
-e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrada** de valores na conta.
-- O menu deve ter quatro opções: a de entrada de valor, saída de valor, consulta de saldo e finalização da aplicação.
-- Lembre-se que para fazer a saída de valores, é necessário ter saldo suficiente.
-- O menu deve aparecer continuamente até que o usuário digite a opção para sair.
-- Caso ele digite qualquer opção que não seja correta, deve apresentar a mensagem de opção inválida.
-- Usaremos a classe Scanner para fazer a leitura da opção do usuário.
-<p></p>
+bash
+Copiar código
+java Main  
+📝 Exemplos de Uso
+Menu Inicial:
+O programa exibe os dados iniciais do cliente e apresenta as opções disponíveis.
+
+Depósito e Saque:
+Insira valores válidos para realizar transações, com validação de saldo insuficiente no caso de saques.
+
+Saída do Programa:
+Digite a opção de saída para finalizar o programa com segurança.
+
+📂 Estrutura do Projeto
+arduino
+Copiar código
+/  
+|-- Main.java      # Arquivo principal do programa  
+|-- README.md      # Documentação do projeto  
+
+🎯 Melhorias Futuras
+Armazenamento de dados em arquivo ou banco de dados para persistência.
+Histórico de transações.
+Adicionar interface gráfica com JavaFX ou Swing.

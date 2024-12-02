@@ -19,11 +19,11 @@ Um projeto simples em Java para simular o gerenciamento de uma conta bancária d
    ```bash  
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    ```
-
+2. Compile o programa:
    ```bash
    javac Main.java
    ```
-
+3. Execute o programa:
    ```bash
    java Main
    ```

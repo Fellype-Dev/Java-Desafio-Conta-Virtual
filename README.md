@@ -8,9 +8,11 @@ Saída de valores da conta (saque ou transferência enviada).
 Consulta de saldo atualizado.
 Menu interativo com opções claras e validação de entradas inválidas.
 Encerramento da aplicação pelo usuário.
+
 🚀 Tecnologias Utilizadas
 Java: Linguagem de programação principal.
 Scanner: Para captura de entrada do usuário no terminal.
+
 📦 Como Executar o Projeto
 Clone o repositório:
 
